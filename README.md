@@ -76,13 +76,12 @@
             <table>
                 <thead><tr><th>Nominal Transaksi</th><th>Fee MC</th></tr></thead>
                 <tbody>
-                    <tr><td>1k – 49k</td><td>3k</td></tr>
-                    <tr><td>50k – 100k</td><td>5k</td></tr>
-                    <tr><td>100k – 200k</td><td>5k</td></tr>
-                    <tr><td>200k – 300k</td><td>5k</td></tr>
-                    <tr><td>300k – 400k</td><td>5k</td></tr>
-                    <tr><td>400k – 500k</td><td>8k</td></tr>
-                    <tr><td>500k+</td><td>8k</td></tr>
+                    <tr><td>1k– 49k</td><td>3k</td></tr>
+                    <tr><td>50k–100k</td><td>5k</td></tr>
+                    <tr><td>100k–200k</td><td>5k</td></tr>
+                    <tr><td>200k–300k</td><td>5k</td></tr>
+                    <tr><td>300k–400k</td><td>5k</td></tr>
+                    <tr><td>400k–500k</td><td>8k</td></tr>
                 </tbody>
             </table>
             <div class="info-box"><strong>ℹ️ Catatan Penting:</strong> Jika transaksi batal, fee tetap dipotong dari akun Anda.</div>
