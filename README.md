@@ -92,5 +92,3 @@
 
         <p class="footer-text">JB ALL GAME © 2025 | Official End Point</p>
     </div>
-</body>
-</html>
