@@ -1,7 +1,3 @@
-jb-all-game/
-│
-└── index.html
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
