@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JB ALL GAME || END POINT</title>
+    <meta name="description" content="JB ALL GAME End Point - Hubungi Admin resmi untuk transaksi game online dengan fee MC yang jelas dan aman.">
+    <meta name="keywords" content="JB All Game, game online, MC, fee MC, jual akun game, WhatsApp">
+    <meta name="author" content="JB ALL GAME">
+    <style>
+        /* --- Semua CSS inline tetap sama seperti sebelumnya --- */
+        * {margin: 0; padding: 0; box-sizing: border-box;}
+        @keyframes slideTitle {0% {transform: translateY(-30px); opacity: 0;} 100% {transform: translateY(0); opacity: 1;}}
+        @keyframes glowTitle {0%,100% {text-shadow:0 0 5px #4da3ff,0 0 10px #0066cc;} 50% {text-shadow:0 0 20px #4da3ff,0 0 30px #0066cc;}}
+        @keyframes bgMove {0%{background-position:0% 50%;}50%{background-position:100% 50%;}100%{background-position:0% 50%;}}
+        @keyframes fadeIn {0%{opacity:0;transform:translateY(20px);}100%{opacity:1;transform:translateY(0);}}
+        body {margin:0;font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;background:linear-gradient(135deg,#0a0a0a 0%,#001a33 50%,#000000 100%);background-size:400% 400%;animation:bgMove 12s ease infinite;color:white;display:flex;justify-content:center;align-items:center;min-height:100vh;padding:20px;}
+        .container {max-width:600px;width:100%;animation:fadeIn 0.8s ease-out;}
+        .header {text-align:center;margin-bottom:40px;}
+        h1 {color:#4da3ff;font-size:clamp(28px,5vw,48px);margin-bottom:10px;animation:slideTitle 1s ease-out forwards,glowTitle 3s ease-in-out infinite;text-transform:uppercase;font-weight:700;letter-spacing:2px;}
+        .subtitle {color:#a0d4ff;font-size:14px;opacity:0.9;animation:fadeIn 1.5s ease-out;}
+        .contact-section {background:linear-gradient(135deg, rgba(13,27,42,0.8), rgba(10,50,80,0.8));padding:25px;border-radius:15px;margin-bottom:30px;border:1px solid rgba(77,163,255,0.3);backdrop-filter:blur(10px);animation:fadeIn 1s ease-out 0.2s both;}
+        .contact-section h2 {color:#4da3ff;margin-bottom:20px;font-size:18px;text-transform:uppercase;letter-spacing:1px;}
+        .contact-item {margin-bottom:15px;display:flex;align-items:center;gap:10px;}
+        .contact-item span {color:#a0d4ff;font-weight:600;min-width:70px;}
+        .btn {display:inline-block;padding:12px 24px;background:linear-gradient(135deg,#25D366,#128C7E);color:white;text-decoration:none;font-size:15px;font-weight:600;border-radius:8px;transition:all 0.3s ease;border:none;cursor:pointer;text-transform:uppercase;letter-spacing:0.5px;}
+        .btn:hover {transform:translateY(-3px);box-shadow:0 8px 20px rgba(37,211,102,0.4);}
+        .btn:active {transform:translateY(-1px);}
+        .btn-secondary {background:rgba(77,163,255,0.2);border:2px solid #4da3ff;color:#4da3ff;margin-left:10px;}
+        .btn-secondary:hover {background:rgba(77,163,255,0.3);box-shadow:0 8px 20px rgba(77,163,255,0.3);}
+        .fee-section {background:linear-gradient(135deg, rgba(15,15,15,0.9), rgba(20,40,60,0.9));padding:30px;border-radius:15px;margin-bottom:30px;border:1px solid rgba(77,163,255,0.3);backdrop-filter:blur(10px);animation:fadeIn 1s ease-out 0.4s both;}
+        .fee-section h2 {text-align:center;margin-bottom:15px;color:#4da3ff;font-size:22px;text-transform:uppercase;letter-spacing:1px;}
+        .fee-section h3 {text-align:center;margin:0 0 20px 0;color:#a0d4ff;font-size:14px;font-weight:500;}
+        table {width:100%;border-collapse:collapse;margin-bottom:20px;}
+        th,td {padding:12px 10px;text-align:left;border-bottom:1px solid rgba(77,163,255,0.2);}
+        th {background:rgba(77,163,255,0.15);color:#4da3ff;font-weight:700;text-transform:uppercase;font-size:13px;letter-spacing:0.5px;}
+        tr:hover {background:rgba(77,163,255,0.08);}
+        td:last-child{text-align:right;font-weight:600;color:#25D366;}
+        .info-box {background:rgba(77,163,255,0.1);border-left:4px solid #4da3ff;padding:15px;border-radius:8px;margin:15px 0;font-size:14px;}
+        .warning-box {background:rgba(255,87,87,0.15);border-left:4px solid #ff5757;padding:15px;border-radius:8px;margin:15px 0;color:#ff9999;font-weight:500;}
+        .fee-details {display:grid;grid-template-columns:1fr 1fr;gap:15px;margin-top:20px;}
+        .detail-card {background:rgba(77,163,255,0.08);padding:15px;border-radius:10px;border:1px solid rgba(77,163,255,0.2);}
+        .detail-card h4 {color:#4da3ff;margin-bottom:10px;font-size:13px;text-transform:uppercase;letter-spacing:0.5px;}
+        .detail-card p {color:#a0d4ff;font-size:14px;line-height:1.6;}
+        .action-buttons {display:flex;gap:10px;justify-content:center;flex-wrap:wrap;animation:fadeIn 1s ease-out 0.6s both;}
+        .footer-text {text-align:center;color:#666;font-size:12px;margin-top:30px;opacity:0.8;}
+        @media(max-width:480px){h1{font-size:28px;}.contact-section,.fee-section{padding:20px;}.fee-details{grid-template-columns:1fr;}.btn-secondary{margin-left:0;margin-top:10px;}th,td{padding:10px 8px;font-size:13px;}}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎮 JB ALL GAME</h1>
+            <p class="subtitle">END POINT • OFFICIAL</p>
+        </div>
+
+        <div class="contact-section">
+            <h2>📞 Hubungi Admin</h2>
+            <div class="contact-item">
+                <span>Admin 1:</span>
+                <a href="https://wa.me/6282224253854" target="_blank" rel="noopener noreferrer" class="btn" style="padding: 10px 16px; font-size: 14px;">+62 822-2425-3854</a>
+            </div>
+            <div class="contact-item">
+                <span>Admin 2:</span>
+                <a href="https://wa.me/6285183997674" target="_blank" rel="noopener noreferrer" class="btn" style="padding: 10px 16px; font-size: 14px;">0851-8399-7674</a>
+            </div>
+            <div class="contact-item" style="margin-top: 20px;">
+                <a href="https://chat.whatsapp.com/HTbsSFbz9leFuUZ88VNxy8" target="_blank" rel="noopener noreferrer" class="btn-secondary">📱 Bergabung ke Grup</a>
+            </div>
+        </div>
+
+        <div class="fee-section">
+            <h2>💰 Daftar Fee MC</h2>
+            <h3>JB || ALL GAME END POINT</h3>
+            <table>
+                <thead><tr><th>Nominal Transaksi</th><th>Fee MC</th></tr></thead>
+                <tbody>
+                    <tr><td>1k – 49k</td><td>3k</td></tr>
+                    <tr><td>50k – 100k</td><td>5k</td></tr>
+                    <tr><td>100k – 200k</td><td>5k</td></tr>
+                    <tr><td>200k – 300k</td><td>5k</td></tr>
+                    <tr><td>300k – 400k</td><td>5k</td></tr>
+                    <tr><td>400k – 500k</td><td>8k</td></tr>
+                    <tr><td>500k+</td><td>8k</td></tr>
+                </tbody>
+            </table>
+            <div class="info-box"><strong>ℹ️ Catatan Penting:</strong> Jika transaksi batal, fee tetap dipotong dari akun Anda.</div>
+
+            <h2 style="margin-top: 30px; font-size: 18px;">Fee MC BT (Bank Transfer)</h2>
+            <div class="fee-details">
+                <div class="detail-card"><h4>Beda Game</h4><p><strong style="color: #25D366;">3k</strong></p></div>
+                <div class="detail-card"><h4>Sama Game</h4><p><strong style="color: #25D366;">2k</strong></p></div>
+                <div class="detail-card"><h4>TT (Transfer)</h4><p><strong style="color: #25D366;">3k</strong></p></div>
+                <div class="detail-card"><h4>Status</h4><p><strong style="color: #a0d4ff;">AKTIF 24/7</strong></p></div>
+            </div>
+
+            <div class="warning-box"><strong>⚠️ PENTING:</strong> Gunakan MC resmi kami untuk terhindar dari penipuan dan memastikan keamanan akun Anda!</div>
+        </div>
+
+        <div class="action-buttons">
+            <a href="https://wa.me/6285183997674" target="_blank" rel="noopener noreferrer" class="btn">💬 Hubungi via WhatsApp</a>
+            <a href="https://chat.whatsapp.com/HTbsSFbz9leFuUZ88VNxy8" target="_blank" rel="noopener noreferrer" class="btn-secondary">📱 Grup WhatsApp</a>
+        </div>
+
+        <p class="footer-text">JB ALL GAME © 2025 | Official End Point</p>
+    </div>
+</body>
+</html>
