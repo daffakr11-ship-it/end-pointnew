@@ -1,16 +1,4 @@
-
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JB ALL GAME || END POINT</title>
-    <meta name="description" content="JB ALL GAME End Point - Hubungi Admin resmi untuk transaksi game online dengan fee MC yang jelas dan aman.">
-    <meta name="keywords" content="JB All Game, game online, MC, fee MC, jual akun game, WhatsApp">
-    <meta name="author" content="JB ALL GAME">
-    <style>
-        /* --- Semua CSS inline tetap sama seperti sebelumnya --- */
-        * {margin: 0; padding: 0; box-sizing: border-box;}
+; padding: 0; box-sizing: border-box;}
         @keyframes slideTitle {0% {transform: translateY(-30px); opacity: 0;} 100% {transform: translateY(0); opacity: 1;}}
         @keyframes glowTitle {0%,100% {text-shadow:0 0 5px #4da3ff,0 0 10px #0066cc;} 50% {text-shadow:0 0 20px #4da3ff,0 0 30px #0066cc;}}
         @keyframes bgMove {0%{background-position:0% 50%;}50%{background-position:100% 50%;}100%{background-position:0% 50%;}}
