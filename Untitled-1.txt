@@ -1,4 +1,0 @@
-jb-all-game/
-│
-└── index.html
-
